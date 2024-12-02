@@ -1,6 +1,6 @@
 # What
 
-A collection of system titles for CSE1 Final hands-on activity
+A collection of system titles for CSE1 Final hands-on activity, this is to lessen system duplication of data models, and filter system titles
 
 ## How to Submit Your chosen System
 1. Fork this repository
