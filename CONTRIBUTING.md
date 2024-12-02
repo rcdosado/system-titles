@@ -3,7 +3,7 @@
 ## Format for Adding Your data model
 Add your data model to `titles.md` using this format:
 
-[System name] - [data model used] - [student name]
+[System name] - [data model used, provide URL of data model here] - [student name]
 
 ## Steps to Submit
 1. Fork the repository
