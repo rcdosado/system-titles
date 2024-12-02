@@ -1,14 +1,15 @@
 # What
 
-A collection of system titles for CSE1 Final hands-on activity, this is to lessen system duplication of data models, and filter system titles
+A collection of system titles for CSE1 Final hands-on activity
+this is to lessen duplication of data models, and filter system titles
 
 ## How to Submit Your chosen System
 1. Fork this repository
-2. Add your chosen data model from [databaseanswers.org](https://fordnox.github.io/databaseanswers/data_models/)  to `titles.md`
+2. Add your chosen data model from [databaseanswers.org](https://fordnox.github.io/databaseanswers/data_models/)  then fill up `titles.md`
 3. Create a Pull Request
 4. Wait for review and approval
 
 ## Guidelines
 - One thesis title per student
 - Follow the format in CONTRIBUTING.md
-- No duplicate system or data model
+- No duplicate system or data model (see the original repo. first-come-first-serve basis)
