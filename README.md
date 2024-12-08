@@ -10,6 +10,6 @@ this is to lessen duplication of data models, and filter system titles
 4. Wait for review and approval
 
 ## Guidelines
-- One thesis title per student
+- One title per student
 - Follow the format in CONTRIBUTING.md
 - No duplicate system or data model (see the original repo. first-come-first-serve basis)
