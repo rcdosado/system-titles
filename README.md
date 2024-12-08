@@ -5,7 +5,7 @@ this is to lessen duplication of data models, and filter system titles
 
 ## How to Submit Your chosen title/data-model
 1. Fork this repository
-2. Add your chosen data model from [databaseanswers.org](https://fordnox.github.io/databaseanswers/data_models/)  then fill up `titles.md`
+2. Add your chosen data model from [databaseanswers.org](https://fordnox.github.io/databaseanswers/data_models/)  then add your entry to `titles.md`, follow the format of the previous entries
 3. Create a Pull Request
 4. Wait for review and approval
 
